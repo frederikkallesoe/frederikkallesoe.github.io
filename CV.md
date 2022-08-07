@@ -1,1 +1,3 @@
-the cv
+layout: page
+title: "Curriculum Vitae"
+permalink: /CV/
