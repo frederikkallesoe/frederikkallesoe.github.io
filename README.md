@@ -2,4 +2,6 @@
 
 hello there
 
-[cv](CV.md)                                       [Examples of geospatial varriables created](mapping_examples.md)
+[Curriculum Viate](CV.md)                                      
+
+[Examples of Geospatial and Mapping Projects](mapping_examples.md)
