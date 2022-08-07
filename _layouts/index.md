@@ -1,1 +1,1 @@
-{{ content }}
+Hello everyone 
