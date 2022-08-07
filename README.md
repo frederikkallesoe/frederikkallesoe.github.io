@@ -2,4 +2,4 @@
 
 hello there
 
-[cv](cv.md)
+[cv](CV.md)
