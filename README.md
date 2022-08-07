@@ -2,4 +2,4 @@
 
 hello there
 
-[cv](CV.md)
+[cv](CV.md)                                       [Examples of geospatial varriables created](mapping_examples.md)
