@@ -1,4 +1,4 @@
-## Hello there and velcome 
+## Hello there and Welcome 
 
 Here you will find a selection of projects that i have made which display some of the services that i can offer in terms of geospatial moddeling and mapping along with a generel CV.
 
