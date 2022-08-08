@@ -1,13 +1,5 @@
 Example one: Valubale varriables for housing market investments in aarhus 
 
-```{r}
-install.packages("leaflet")
-require(leaflet) 
-```
+within this page you can see examples of some of the varrious geospatial products i have created for different purposes, which you can explore using the links below 
 
-```{r}
-##Adding an interactive map to your markdown using leaflet56.16992908061329, 9.346352777934538
-m <-   addMarkers(addTiles(leaflet()),lng = 9.346352777934538, lat = 56.16992908061329, popup = "Where we are right now!")
-  
-m  
-```
+[!Trial! Valubale varriables for housing market investments in !Trial!](https://rpubs.com/frederikkallesoe/trial_map)
