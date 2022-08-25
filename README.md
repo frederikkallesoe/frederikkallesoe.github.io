@@ -1,4 +1,11 @@
 # Frederik Kallesoe
+<table>
+     <tr>
+         <td><a href=".">Home</a></td>
+         <td><a href="about">About</a></td>
+     </tr>
+ </table>
+ <hr>
 
 Hello there and welcome to the online portfolio of me, Frederik Kallesoe, in which I display some of the geospatial and mappig projects I have worked on along with some a generel CV.
 
@@ -8,7 +15,7 @@ Hello there and welcome to the online portfolio of me, Frederik Kallesoe, in whi
 
 
 <hr>
-<p>Contact us</p>
+<p>Contact info</p>
 <ul>
     <li>Email: <a href="mailto:{{ site.email }}">Frederikkallesoe@hotmail.com</a></li>
 </ul>
