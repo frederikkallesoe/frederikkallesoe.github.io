@@ -1,2 +1,2 @@
-<body>
-<object data="Denne Pc/Overførsler/github cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+<embed src="https://drive.google.com/file/d/1sPzHivlK7XmYtaenP4hRvg2KtOlMU1G5/view?usp=sharing" width="500" height="375">
