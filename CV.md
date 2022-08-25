@@ -1,2 +1,2 @@
-<embed src="file:///G:/Mit%20drev/github%20cv.pdf" width="500" height="375">
+![](https://raw.githubusercontent.com/frederikkallesoe/frederikkallesoe.github.io/main/github_cv.jpg)
 
