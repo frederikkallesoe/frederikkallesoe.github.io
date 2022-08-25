@@ -10,5 +10,5 @@ Hello there and welcome to the online portfolio of me, Frederik Kallesoe, in whi
 <hr>
 <p>Contact us</p>
 <ul>
-    <li>Email: <a href="mailto:{{ site.email }}">{{Frederikkallesoe@hotmail.com}}</a></li>
+    <li>Email: <a href="mailto:{{ site.email }}">Frederikkallesoe@hotmail.com</a></li>
 </ul>
