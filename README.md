@@ -3,14 +3,12 @@
 <table>
      <tr>
          <td><a href=".">Home</a></td>
-         <td><a href="about">About</a></td>
+         <td><a href="(CV.md)">Curriculum_Viate</a></td>
      </tr>
  </table>
  <hr>
 
-Hello there and welcome to the online portfolio of me, Frederik Kallesoe, in which I display some of the geospatial and mappig projects I have worked on along with some a generel CV.
-
-[Curriculum Viate](CV.md)                                      
+Hello there and welcome to the online portfolio of me, Frederik Kallesoe, in which I display some of the geospatial and mappig projects I have worked on along with some a generel CV.                               
 
 [Examples of Geospatial and Mapping Projects](mapping_examples.md)
 
