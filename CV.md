@@ -1,4 +1,4 @@
-.page {
+page {
 
   @include breakpoint($large) {
     float: right;
