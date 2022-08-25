@@ -1,2 +1,2 @@
 
-<img src="https://raw.githubusercontent.com/frederikkallesoe/frederikkallesoe.github.io/main/github_cv.jpg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/frederikkallesoe/frederikkallesoe.github.io/main/github_cv.jpg" alt="drawing" width="1000"/>
