@@ -3,7 +3,7 @@
 <table>
      <tr>
          <td><a href=".">Home</a></td>
-         <td><a href="(CV.md)">Curriculum_Viate</a></td>
+         <td><a href="(CV.md)">Curriculum Viate</a></td>
      </tr>
  </table>
  <hr>
