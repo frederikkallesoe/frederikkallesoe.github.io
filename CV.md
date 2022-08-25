@@ -1,2 +1,2 @@
-<embed src="https://drive.google.com/file/d/1sPzHivlK7XmYtaenP4hRvg2KtOlMU1G5/view" width="500" height="375">
+<embed src="file:///G:/Mit%20drev/github%20cv.pdf" width="500" height="375">
 
