@@ -1,2 +1,2 @@
 
-<embed src="https://doc-04-78-apps-viewer.googleusercontent.com/viewer/secure/pdf/t0jantp87uq393l014f8ttedupb1h66o/v348hjg87a4584sa94lrj2lpmnk2o13u/1661440125000/drive/03582094421735583838/ACFrOgDmfDXmBqGmU5bhfcTfJxCFbAjSogfuc5JkVPlpCQulSQ2OWjHLyRg1D8Ld2sXJw8Fg1TaLopHBfKXoyDcu-mHX0mRDnYw5QpMTnEuwH3ufA4pZzhEQaUryGoFuyqIIBl6cRKmevmOb9Vm2?print=true&nonce=4udfuid231l6g&user=03582094421735583838&hash=uvrkaq6vh1lhee9gv0p4q29sp9gsu6gt" width="500" height="375">
+<embed src="file:///C:/Users/frede/Downloads/github%20cv.pdf" width="500" height="375">
