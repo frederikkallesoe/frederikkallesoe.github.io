@@ -3,7 +3,7 @@
 <table>
      <tr>
          <td><a href=".">Home</a></td>
-         <td><a href="(CV.md)">Curriculum Viate</a></td>
+         <td><a href="(CV.html)">Curriculum Viate</a></td>
      </tr>
  </table>
  <hr>
@@ -12,7 +12,7 @@ Hello there and welcome to the online portfolio of me, Frederik Kallesoe, in whi
 
 [Examples of Geospatial and Mapping Projects](mapping_examples.md)
 
-[Curriculum Viate](CV.md)
+[Curriculum Viate](CV.html)
 
 <hr>
 <p>Contact info</p>
